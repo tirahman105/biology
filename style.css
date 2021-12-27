@@ -1,4 +1,4 @@
-*{
+body{
 	margin: 0px;
 	padding: 0px;
 
@@ -38,6 +38,13 @@
 .hero img{
 	width: 100%;
 }
+.tareq img{
+	height: 336px;
+	width: 278px;
+	position: absolute;
+	top: -28px;
+	right: 50px;
+}
 
 .hero_text{
 	position: absolute;
@@ -63,4 +70,15 @@
 	padding-top: 25px;
 	
 }
+
+.tareq img{
+
+	height: 143px;
+    width: 112px;
+    position: absolute;
+    top: -17px;
+    right: 18px;
+}
+
+
 }
